@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+😁;I+am+RAKIN+SAD+AFTAB;&center=true&size=30">
+  </a>
+</h1>
 
-<!--
-**Tamimul-Alam/Tamimul-Alam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<table>
+  <tr>
+    <th>Profile Stats</th>
+    <th>Language Contribution</th>
+  </tr>
+  <tr>
+    <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=aftabrakinsad&show_icons=true&theme=tokyonight" alt="aftabrakinsad"/></td>
+    <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftabrakinsad&langs_count=10&theme=tokyonight&layout=compact&hide=html"></td>
+  </tr>
+</table>
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=aftabrakinsad&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="right">
+<a href="mailto:rakinsadaftab@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rakinsadaftab@gmail.com-red?style=flat&logo=gmail&color=blue&theme=blue"></a>
+</p>
