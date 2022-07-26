@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+😁;I+am+Tamimul+Alam;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+😁;Myself+Tamimul+Alam;&center=true&size=30">
   </a>
 </h1>
 
@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Tamimul-Alam&show_icons=true&theme=tokyonight" alt="Tamimul-Alam"/></td>
-    <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftabrakinsad&langs_count=10&theme=tokyonight&layout=compact&hide=html"></td>
+    <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamimul-Alam&langs_count=10&theme=tokyonight&layout=compact&hide=html"></td>
   </tr>
 </table>
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Tamimul-Alam&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
